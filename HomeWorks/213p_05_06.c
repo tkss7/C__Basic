@@ -12,8 +12,7 @@ int main()
     {
         printf("파운드 입력 ? ");
         scanf("%d", &pound);
-        kg = pound * 0.45359237F;
-        printf("%d 파운드는 %0.3f 킬로그램이다.", pound, kg);
+        printf("%d 파운드는 %0.3f 킬로그램이다.", pound, pound * 0.45359237F);
     }
     else if (ch == 'K' || ch == 'k')
     {

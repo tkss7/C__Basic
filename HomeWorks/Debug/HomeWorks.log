@@ -1,4 +1,5 @@
-﻿  Level2_1.c
-C:\Users\dltkd\Desktop\C__Basic\HomeWorks\Level2_1.c(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\dltkd\Desktop\C__Basic\HomeWorks\Level2_1.c(15,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  Level2_2.c
+C:\Users\dltkd\Desktop\C__Basic\HomeWorks\Level2_2.c(23,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dltkd\Desktop\C__Basic\HomeWorks\Level2_2.c(28,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dltkd\Desktop\C__Basic\HomeWorks\Level2_2.c(13,25): warning C4101: 'result' :참조되지 않은 지역 변수입니다.
   HomeWorks.vcxproj -> C:\Users\dltkd\Desktop\C__Basic\HomeWorks\Debug\HomeWorks.exe
