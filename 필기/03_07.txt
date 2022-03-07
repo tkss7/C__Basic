@@ -1,0 +1,11 @@
+scanf(), getchar(), gets() >표준 라이브러리 함수
+Visual Studio 2013 이전 
+Visual Studio 2013 이후, scanf_s(), gets_s() : 크기확인
+scanf_s 같은건 Visual Studio만 호환됨
+
+Visual Studio 2015 ==> 표준라이브러리 함수를 쓰면 컴파일 오류를 내보냄
+		       Sdl (아니오)를 하면 쓸 수 있게 만들어줌
+
+Visual Studio 2017
+
+Visual Studio 2019
