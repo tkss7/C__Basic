@@ -1,0 +1,4 @@
+﻿  pointer5.c
+D:\C_Basic\CH10\pointer5.c(15,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C_Basic\CH10\pointer5.c(22,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CH10.vcxproj -> D:\C_Basic\CH10\Debug\CH10.exe

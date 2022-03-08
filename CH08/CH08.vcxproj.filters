@@ -48,5 +48,8 @@
     <ClCompile Include="employee.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="employess.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
