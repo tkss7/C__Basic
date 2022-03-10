@@ -39,7 +39,7 @@ void myStrcpy(char *to, char *from) //참조 반환이니까 값을 반환하지 않아도 된다!
 	{
 		*to = *from;
 		to++;
-		from++;
+		from++; // from이 문자열 상수이므로 문자갯수만큼 일렬로 주소를 할당 받는다.
 	}
 	*to = '\0';
 	//*to = ""; //안됨

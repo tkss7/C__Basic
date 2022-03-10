@@ -32,7 +32,7 @@ int main()
 	for (i = 0; i < 5; i++)
 		printf("%p: %d, %d, %d %d \n",
 			&num[i]/* = num+i */, num[i], *(ptr + i), *(num + i),ptr[i]); //연산의 우선순위가 가감보단 포인터가 높기때문에 괄호 필수!!!! - !책495P!
-	printf("\n");
+	printf("\n");// 
 
 	char str[20] = "kingdom", * p2;
 	p2 = str;

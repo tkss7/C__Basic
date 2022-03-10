@@ -1,4 +1,3 @@
-﻿  pointer5.c
-D:\C_Basic\CH10\pointer5.c(15,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\C_Basic\CH10\pointer5.c(22,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  CH10.vcxproj -> D:\C_Basic\CH10\Debug\CH10.exe
+﻿  poiner3.c
+  LINK : C:\Users\dltkd\Desktop\C__Basic\CH10\Debug\CH10.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  CH10.vcxproj -> C:\Users\dltkd\Desktop\C__Basic\CH10\Debug\CH10.exe

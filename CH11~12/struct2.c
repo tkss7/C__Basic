@@ -19,7 +19,7 @@ int main()
 		char comAddr[50];
 	}EMP;
 
-	struct EMPLOYEE emps[EMP_SZ] ; //1차원 배열이므로 열 임(==주소가 아닌 데이터)
+	struct EMPLOYEE emps[EMP_SZ],*ptr ; //1차원 배열이므로 열 임(==주소가 아닌 데이터)
 
 	for (i = 0; i < EMP_SZ; i++)
 	{
@@ -41,8 +41,17 @@ int main()
 		gets(emps[i].comAddr);
 	}
 	Cn = i; //여기가 맞다.
-	for (i = 0; i < Cn; i++)
-		printf("%s\t%d\t%.2f\t%s \n\n", emps[i].name, emps[i].salary, emps[i].height, emps[i].comAddr);
+	ptr = emps;
+
+	while (1)
+	{
+		if (!strcmp(ptr->name, "end"))
+			break;
+		printf("%s\t%d\t%.2f\t%s \n\n", ptr->name, ptr->salary, ptr->height, ptr->comAddr);
+		//포인터의 증가는 포인터의 자료형의 크기만큼 증가한다.
+		ptr++;
+	}
+
 	
 
 

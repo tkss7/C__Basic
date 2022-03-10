@@ -14,6 +14,7 @@ static은 비교적 적은 범위에서 바꿀 수 있다. == 보안적인 문제에서 나음
 */
 int* funcA();
 void funcB();
+void funcD();
 void salCal(int* tmp, int size);
 int main()
 {
@@ -61,7 +62,7 @@ void funcB()
 
 }
 
-funcD()
+void funcD()
 {
 	char* p1 = "multi campus!!!";
 

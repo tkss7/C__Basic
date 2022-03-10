@@ -21,5 +21,35 @@
     <ClCompile Include="struct2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="struct3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fileio1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fileio2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fileio3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fileio4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fileio5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="filebio1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileIO_Employess.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
