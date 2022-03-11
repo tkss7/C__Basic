@@ -1,10 +1,1 @@
-﻿  FileIO_Employess.c
-C:\Users\dltkd\Desktop\C__Basic\CH11~12\FileIO_Employess.c(37,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\dltkd\Desktop\C__Basic\CH11~12\FileIO_Employess.c(71,7): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\dltkd\Desktop\C__Basic\CH11~12\FileIO_Employess.c(76,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\dltkd\Desktop\C__Basic\CH11~12\FileIO_Employess.c(64,6): warning C4101: 'choice' :참조되지 않은 지역 변수입니다.
-C:\Users\dltkd\Desktop\C__Basic\CH11~12\FileIO_Employess.c(144,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\dltkd\Desktop\C__Basic\CH11~12\FileIO_Employess.c(139,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\dltkd\Desktop\C__Basic\CH11~12\FileIO_Employess.c(162,3): warning C4033: 'emp_load'은(는) 값을 반환해야 합니다.
-C:\Users\dltkd\Desktop\C__Basic\CH11~12\FileIO_Employess.c(158,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  CH11~12.vcxproj -> C:\Users\dltkd\Desktop\C__Basic\CH11~12\Debug\CH11~12.exe
+﻿  CH11~12.vcxproj -> D:\C_Basic\CH11~12\Debug\CH11~12.exe
