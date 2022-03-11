@@ -27,7 +27,7 @@ int main()
 {
 	int i = 0;
 	FILE* fp;
-	STUDENT tmp[4], stu[3] = {
+	STUDENT tmp, stu[3] = {
 		{ "진달래",89,100,30 },
 		{ "이몽룡",100,75,50 },
 		{ "성춘향",68,83,67 }
@@ -58,7 +58,7 @@ int main()
 		printf("file open error. \n");
 		exit(1);
 	}
-	/*
+	
 	while(1)
 	{  //fread는 더이상 읽울게 없으면 3번쨰 인자가 아닌 것을 반환한다.
 		if (fread(&tmp, sizeof(STUDENT), 1, fp) != 1)// 자료형 구분없이 한번에 잡아다 끌어오므로 속도가 빠르지만 txt파일이 아니라 눈으로 확인은 불가능하다
@@ -67,11 +67,11 @@ int main()
 		printf("%s, %d, %d, %d, %.2f \n", tmp.name, tmp.kor, tmp.eng, tmp.mat, tmp.avg);
 	
 	}
-	*/
+	
 
-	fread(&tmp, sizeof(tmp[0]), 4, fp);
-	for(i=0;i<4;i++)
-		printf(" %s, %d, %d, %d, %.2f \n", tmp[i].name, tmp[i].kor, tmp[i].eng, tmp[i].mat, tmp[i].avg);
+	//fread(&tmp, sizeof(tmp[0]), 4, fp);
+	//for(i=0;i<4;i++)
+	//	printf(" %s, %d, %d, %d, %.2f \n", tmp[i].name, tmp[i].kor, tmp[i].eng, tmp[i].mat, tmp[i].avg);
 
 	
 
