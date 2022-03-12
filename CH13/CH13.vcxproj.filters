@@ -18,5 +18,26 @@
     <ClCompile Include="point6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pointer7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="score_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main_arg1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="double_pointer1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="func_pointer1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="func_pointer2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
