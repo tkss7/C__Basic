@@ -1,3 +1,13 @@
-http://naver.me/5l6zjGyr
+http://naver.me/xNoimNng
+
+
 1234
 81일
+
+
+포함, 라이브 디렉토리를 해도 됨
+
+C:\Program Files (x86)\Visual Leak Detector\
+의 lib , bin, include 폴더 안이 파일을
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\
+의 lib, bin, include 의 폴더에 맞게 복붙하면 됨

@@ -39,5 +39,32 @@
     <ClCompile Include="func_pointer2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pointer_cast.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="void_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dataSwap.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mallo1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="double_pointer2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="s_linked.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="d_linkced.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="s_linked2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
