@@ -1,7 +1,10 @@
-﻿  s_linked2.c
-C:\Users\dltkd\Desktop\C__Basic\CH13\s_linked2.c(42,8): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\dltkd\Desktop\C__Basic\CH13\s_linked2.c(44,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\dltkd\Desktop\C__Basic\CH13\s_linked2.c(49,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\dltkd\Desktop\C__Basic\CH13\s_linked2.c(51,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\dltkd\Desktop\C__Basic\CH13\s_linked2.c(56,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  dataSwap.c
+C:\Users\dltkd\Desktop\C__Basic\CH13\dataSwap.c(16,14): warning C4047: '함수': 'void **'의 간접 참조 수준이 'short *'과(와) 다릅니다.
+C:\Users\dltkd\Desktop\C__Basic\CH13\dataSwap.c(16,11): warning C4022: 'swap': 실제 매개 변수 2의 포인터가 일치하지 않습니다.
+C:\Users\dltkd\Desktop\C__Basic\CH13\dataSwap.c(17,15): warning C4047: '함수': 'void **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+C:\Users\dltkd\Desktop\C__Basic\CH13\dataSwap.c(17,12): warning C4022: 'swap': 실제 매개 변수 2의 포인터가 일치하지 않습니다.
+C:\Users\dltkd\Desktop\C__Basic\CH13\dataSwap.c(18,15): warning C4047: '함수': 'void **'의 간접 참조 수준이 'double *'과(와) 다릅니다.
+C:\Users\dltkd\Desktop\C__Basic\CH13\dataSwap.c(18,12): warning C4022: 'swap': 실제 매개 변수 2의 포인터가 일치하지 않습니다.
+C:\Users\dltkd\Desktop\C__Basic\CH13\dataSwap.c(19,23): warning C4047: '함수': 'void **'의 간접 참조 수준이 'char [20]'과(와) 다릅니다.
+C:\Users\dltkd\Desktop\C__Basic\CH13\dataSwap.c(19,20): warning C4022: 'swap': 실제 매개 변수 2의 포인터가 일치하지 않습니다.
   CH13.vcxproj -> C:\Users\dltkd\Desktop\C__Basic\CH13\Debug\CH13.exe

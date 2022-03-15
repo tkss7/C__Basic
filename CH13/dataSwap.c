@@ -11,7 +11,7 @@ int main()
 	short int x1 = 100, x2 = 200;
 	int y1 = 300, y2 = 500;
 	double d1 = 1.6, d2 = 7.9;
-	char name[2][20] = { "kim","lee" };
+	char name[2][20] = { "kim kang kang","lee sang jae" };
 
 	swap(&x1,&x2,sizeof(x1));
 	swap(&y1, &y2, sizeof(y1));

@@ -66,5 +66,23 @@
     <ClCompile Include="s_linked2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="stack_link.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="queue_link.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stack_Array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stack_DArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="employee_global.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="employee_local.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
